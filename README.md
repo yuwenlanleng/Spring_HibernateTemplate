@@ -1,0 +1,2 @@
+# Spring_HibernateTemplate
+添加使用hibernate中的模板hibernatgeTemplate来进行管理
